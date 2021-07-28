@@ -45,19 +45,6 @@ cube가 회전하면서 공간 구성이 어떻게 되는지, y_rotate , z_rotat
 ---
 
 
-## script.js 코드 부분
-
-아래는 translate과 rotate 그리고 scale을 위한 코드부분 입니다.
-
-![0](./code.jpg)
-
-아래는 cam과 translate을 조절하기 위한 변수와 함수의 모음입니다.
-
-![1](./code1.jpg)
-
-아래는 cam의 auto모드와 수동모드를 조절하기 위한 코드부분 입니다.
-![2](./code2.jpg)
-
 ## html 내용 부분
 ![11](./web1.jpg)
 ![22](./web2.jpg)
