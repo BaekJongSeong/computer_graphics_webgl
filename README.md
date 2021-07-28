@@ -1,6 +1,5 @@
 # Webgl - Final Project
 
-컴퓨터 그래픽스 이환용 교수님 과목, final project 진행 내용입니다.
 
 전체 course 내용 triangle , uniform and attribute , primitive assembly , model transform , view/projection , clipping and culling , per-fragment operation , anti-aliasing , texture , shading 부분에서 중요하다고 생각되는 부분, 그리고 다이나믹한 효과를 내는 부분으로 프로젝트 대상 범위를 줄였습니다.
 
